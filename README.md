@@ -42,8 +42,8 @@ Users should be able to view the optimal layout depending on their device's scre
 During this project, I reinforced my understanding of HTML and CSS, focusing on responsive design and layout techniques.
 
 ### Author
-Frontend Mentor - [vinits-repo](https://www.frontendmentor.io/profile/vinits-repo)
-Twitter - [Vinitstwt](https://twitter.com/Vinitstwt)
+- Frontend Mentor - [vinits-repo](https://www.frontendmentor.io/profile/vinits-repo)
+- Twitter - [Vinitstwt](https://twitter.com/Vinitstwt)
 
 ### Acknowledgments
 I would like to express my gratitude to Frontend Mentor for providing this challenge and to anyone who contributed to the project or inspired me along the way.
